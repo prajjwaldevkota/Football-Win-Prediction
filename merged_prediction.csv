@@ -1,0 +1,401 @@
+,actual_x,predicted_x,date,team_x,opponent_x,result_x,new_team_x,actual_y,predicted_y,team_y,opponent_y,result_y,new_team_y
+0,0,0,2024-01-02,Alaves,Real Sociedad,D,Alavés,0,1,RealSociedad,Alavés,D,Real Sociedad
+1,1,0,2024-01-12,Alaves,Sevilla,W,Alavés,0,1,Sevilla,Alavés,L,Sevilla
+2,1,1,2024-01-19,Alaves,Cádiz,W,Alavés,0,0,Cadiz,Alavés,L,Cádiz
+3,1,0,2024-01-26,Alaves,Almería,W,Alavés,0,1,Almeria,Alavés,L,Almería
+4,0,0,2024-02-03,Alaves,Barcelona,L,Alavés,1,0,Barcelona,Alavés,W,Barcelona
+5,0,0,2024-02-10,Alaves,Villarreal,D,Alavés,0,1,Villarreal,Alavés,D,Villarreal
+6,0,0,2024-02-18,Alaves,Real Betis,D,Alavés,0,1,RealBetis,Alavés,D,Real Betis
+7,0,0,2024-02-24,Alaves,Mallorca,D,Alavés,0,0,Mallorca,Alavés,D,Mallorca
+8,0,0,2024-03-04,Alaves,Osasuna,L,Alavés,1,1,Osasuna,Alavés,W,Osasuna
+9,1,0,2024-03-10,Alaves,Rayo Vallecano,W,Alavés,0,0,RayoVallecano,Alavés,L,Rayo Vallecano
+10,0,0,2024-03-16,Alaves,Athletic Club,L,Alavés,1,1,AthleticClub,Alavés,W,Athletic Club
+11,0,0,2024-03-31,Alaves,Real Sociedad,L,Alavés,1,0,RealSociedad,Alavés,W,Real Sociedad
+12,0,0,2024-04-14,Alaves,Granada,L,Alavés,1,1,Granada,Alavés,W,Granada
+13,1,0,2024-04-21,Alaves,Atlético Madrid,W,Alavés,0,0,AtleticoMadrid,Alavés,L,Atlético Madrid
+14,1,0,2024-04-27,Alaves,Celta Vigo,W,Alavés,0,0,CeltaVigo,Alavés,L,Celta Vigo
+15,1,0,2024-05-05,Alaves,Valencia,W,Alavés,0,0,Valencia,Alavés,L,Valencia
+16,0,1,2024-05-10,Alaves,Girona,D,Alavés,0,0,Girona,Alavés,D,Girona
+17,0,0,2024-05-14,Alaves,Real Madrid,L,Alavés,1,1,RealMadrid,Alavés,W,Real Madrid
+18,1,1,2024-05-18,Alaves,Getafe,W,Alavés,0,0,Getafe,Alavés,L,Getafe
+19,0,0,2024-05-26,Alaves,Las Palmas,D,Alavés,0,1,LasPalmas,Alavés,D,Las Palmas
+20,0,0,2024-01-04,Almeria,Osasuna,L,Almería,1,1,Osasuna,Almería,W,Osasuna
+21,0,0,2024-01-14,Almeria,Girona,D,Almería,0,0,Girona,Almería,D,Girona
+22,0,0,2024-01-21,Almeria,Real Madrid,L,Almería,1,1,RealMadrid,Almería,W,Real Madrid
+23,0,1,2024-01-26,Almeria,Alavés,L,Almería,1,0,Alaves,Almería,W,Alavés
+24,0,0,2024-02-03,Almeria,Valencia,L,Almería,1,1,Valencia,Almería,W,Valencia
+25,0,0,2024-02-12,Almeria,Athletic Club,D,Almería,0,0,AthleticClub,Almería,D,Athletic Club
+26,0,0,2024-02-18,Almeria,Granada,D,Almería,0,0,Granada,Almería,D,Granada
+27,0,0,2024-02-24,Almeria,Atlético Madrid,D,Almería,0,0,AtleticoMadrid,Almería,D,Atlético Madrid
+28,0,0,2024-03-01,Almeria,Celta Vigo,L,Almería,1,1,CeltaVigo,Almería,W,Celta Vigo
+29,0,0,2024-03-11,Almeria,Sevilla,D,Almería,0,0,Sevilla,Almería,D,Sevilla
+30,1,0,2024-03-17,Almeria,Las Palmas,W,Almería,0,1,LasPalmas,Almería,L,Las Palmas
+31,0,1,2024-03-30,Almeria,Osasuna,L,Almería,1,0,Osasuna,Almería,W,Osasuna
+32,0,0,2024-04-14,Almeria,Real Sociedad,D,Almería,0,1,RealSociedad,Almería,D,Real Sociedad
+33,0,0,2024-04-21,Almeria,Villarreal,L,Almería,1,0,Villarreal,Almería,W,Villarreal
+34,0,0,2024-04-27,Almeria,Getafe,L,Almería,1,0,Getafe,Almería,W,Getafe
+35,1,0,2024-05-05,Almeria,Rayo Vallecano,W,Almería,0,1,RayoVallecano,Almería,L,Rayo Vallecano
+36,0,0,2024-05-12,Almeria,Real Betis,L,Almería,1,1,RealBetis,Almería,W,Real Betis
+37,0,0,2024-05-16,Almeria,Barcelona,L,Almería,1,1,Barcelona,Almería,W,Barcelona
+38,0,0,2024-05-19,Almeria,Mallorca,D,Almería,0,1,Mallorca,Almería,D,Mallorca
+39,1,0,2024-05-25,Almeria,Cádiz,W,Almería,0,1,Cadiz,Almería,L,Cádiz
+40,1,0,2024-01-04,AthleticClub,Sevilla,W,Athletic Club,0,0,Sevilla,Athletic Club,L,Sevilla
+41,1,0,2024-01-13,AthleticClub,Real Sociedad,W,Athletic Club,0,0,RealSociedad,Athletic Club,L,Real Sociedad
+42,0,0,2024-01-20,AthleticClub,Valencia,L,Athletic Club,1,0,Valencia,Athletic Club,W,Valencia
+43,0,0,2024-01-28,AthleticClub,Cádiz,D,Athletic Club,0,0,Cadiz,Athletic Club,D,Cádiz
+44,1,1,2024-02-02,AthleticClub,Mallorca,W,Athletic Club,0,0,Mallorca,Athletic Club,L,Mallorca
+45,0,0,2024-02-12,AthleticClub,Almería,D,Athletic Club,0,0,Almeria,Athletic Club,D,Almería
+46,1,1,2024-02-19,AthleticClub,Girona,W,Athletic Club,0,0,Girona,Athletic Club,L,Girona
+47,0,0,2024-02-25,AthleticClub,Real Betis,L,Athletic Club,1,0,RealBetis,Athletic Club,W,Real Betis
+48,0,0,2024-03-03,AthleticClub,Barcelona,D,Athletic Club,0,1,Barcelona,Athletic Club,D,Barcelona
+49,1,0,2024-03-10,AthleticClub,Las Palmas,W,Athletic Club,0,0,LasPalmas,Athletic Club,L,Las Palmas
+50,1,1,2024-03-16,AthleticClub,Alavés,W,Athletic Club,0,0,Alaves,Athletic Club,L,Alavés
+51,0,0,2024-03-31,AthleticClub,Real Madrid,L,Athletic Club,1,1,RealMadrid,Athletic Club,W,Real Madrid
+52,0,0,2024-04-14,AthleticClub,Villarreal,D,Athletic Club,0,0,Villarreal,Athletic Club,D,Villarreal
+53,0,0,2024-04-19,AthleticClub,Granada,D,Athletic Club,0,0,Granada,Athletic Club,D,Granada
+54,0,0,2024-04-27,AthleticClub,Atlético Madrid,L,Athletic Club,1,1,AtleticoMadrid,Athletic Club,W,Atlético Madrid
+55,1,0,2024-05-03,AthleticClub,Getafe,W,Athletic Club,0,0,Getafe,Athletic Club,L,Getafe
+56,0,0,2024-05-11,AthleticClub,Osasuna,D,Athletic Club,0,0,Osasuna,Athletic Club,D,Osasuna
+57,0,0,2024-05-15,AthleticClub,Celta Vigo,L,Athletic Club,1,0,CeltaVigo,Athletic Club,W,Celta Vigo
+58,1,1,2024-05-19,AthleticClub,Sevilla,W,Athletic Club,0,0,Sevilla,Athletic Club,L,Sevilla
+59,1,0,2024-05-25,AthleticClub,Rayo Vallecano,W,Athletic Club,0,0,RayoVallecano,Athletic Club,L,Rayo Vallecano
+60,0,0,2024-01-03,AtleticoMadrid,Girona,L,Atlético Madrid,1,0,Girona,Atlético Madrid,W,Girona
+61,1,0,2024-01-22,AtleticoMadrid,Granada,W,Atlético Madrid,0,0,Granada,Atlético Madrid,L,Granada
+62,1,0,2024-01-28,AtleticoMadrid,Valencia,W,Atlético Madrid,0,0,Valencia,Atlético Madrid,L,Valencia
+63,1,1,2024-01-31,AtleticoMadrid,Rayo Vallecano,W,Atlético Madrid,0,0,RayoVallecano,Atlético Madrid,L,Rayo Vallecano
+64,0,0,2024-02-04,AtleticoMadrid,Real Madrid,D,Atlético Madrid,0,1,RealMadrid,Atlético Madrid,D,Real Madrid
+65,0,0,2024-02-11,AtleticoMadrid,Sevilla,L,Atlético Madrid,1,0,Sevilla,Atlético Madrid,W,Sevilla
+66,1,0,2024-02-17,AtleticoMadrid,Las Palmas,W,Atlético Madrid,0,0,LasPalmas,Atlético Madrid,L,Las Palmas
+67,0,0,2024-02-24,AtleticoMadrid,Almería,D,Atlético Madrid,0,0,Almeria,Atlético Madrid,D,Almería
+68,1,0,2024-03-03,AtleticoMadrid,Real Betis,W,Atlético Madrid,0,0,RealBetis,Atlético Madrid,L,Real Betis
+69,0,1,2024-03-09,AtleticoMadrid,Cádiz,L,Atlético Madrid,1,0,Cadiz,Atlético Madrid,W,Cádiz
+70,0,0,2024-03-17,AtleticoMadrid,Barcelona,L,Atlético Madrid,1,0,Barcelona,Atlético Madrid,W,Barcelona
+71,1,0,2024-04-01,AtleticoMadrid,Villarreal,W,Atlético Madrid,0,0,Villarreal,Atlético Madrid,L,Villarreal
+72,1,0,2024-04-13,AtleticoMadrid,Girona,W,Atlético Madrid,0,0,Girona,Atlético Madrid,L,Girona
+73,0,0,2024-04-21,AtleticoMadrid,Alavés,L,Atlético Madrid,1,0,Alaves,Atlético Madrid,W,Alavés
+74,1,1,2024-04-27,AtleticoMadrid,Athletic Club,W,Atlético Madrid,0,0,AthleticClub,Atlético Madrid,L,Athletic Club
+75,1,0,2024-05-04,AtleticoMadrid,Mallorca,W,Atlético Madrid,0,0,Mallorca,Atlético Madrid,L,Mallorca
+76,1,0,2024-05-12,AtleticoMadrid,Celta Vigo,W,Atlético Madrid,0,0,CeltaVigo,Atlético Madrid,L,Celta Vigo
+77,1,0,2024-05-15,AtleticoMadrid,Getafe,W,Atlético Madrid,0,0,Getafe,Atlético Madrid,L,Getafe
+78,0,1,2024-05-19,AtleticoMadrid,Osasuna,L,Atlético Madrid,1,0,Osasuna,Atlético Madrid,W,Osasuna
+79,1,0,2024-05-25,AtleticoMadrid,Real Sociedad,W,Atlético Madrid,0,0,RealSociedad,Atlético Madrid,L,Real Sociedad
+80,1,1,2024-01-04,Barcelona,Las Palmas,W,Barcelona,0,0,LasPalmas,Barcelona,L,Las Palmas
+81,1,0,2024-01-21,Barcelona,Real Betis,W,Barcelona,0,0,RealBetis,Barcelona,L,Real Betis
+82,0,1,2024-01-27,Barcelona,Villarreal,L,Barcelona,1,0,Villarreal,Barcelona,W,Villarreal
+83,1,0,2024-01-31,Barcelona,Osasuna,W,Barcelona,0,0,Osasuna,Barcelona,L,Osasuna
+84,1,0,2024-02-03,Barcelona,Alavés,W,Barcelona,0,0,Alaves,Barcelona,L,Alavés
+85,0,1,2024-02-11,Barcelona,Granada,D,Barcelona,0,0,Granada,Barcelona,D,Granada
+86,1,0,2024-02-17,Barcelona,Celta Vigo,W,Barcelona,0,0,CeltaVigo,Barcelona,L,Celta Vigo
+87,1,1,2024-02-24,Barcelona,Getafe,W,Barcelona,0,0,Getafe,Barcelona,L,Getafe
+88,0,1,2024-03-03,Barcelona,Athletic Club,D,Barcelona,0,0,AthleticClub,Barcelona,D,Athletic Club
+89,1,1,2024-03-08,Barcelona,Mallorca,W,Barcelona,0,0,Mallorca,Barcelona,L,Mallorca
+90,1,0,2024-03-17,Barcelona,Atlético Madrid,W,Barcelona,0,0,AtleticoMadrid,Barcelona,L,Atlético Madrid
+91,1,1,2024-03-30,Barcelona,Las Palmas,W,Barcelona,0,0,LasPalmas,Barcelona,L,Las Palmas
+92,1,1,2024-04-13,Barcelona,Cádiz,W,Barcelona,0,1,Cadiz,Barcelona,L,Cádiz
+93,0,0,2024-04-21,Barcelona,Real Madrid,L,Barcelona,1,0,RealMadrid,Barcelona,W,Real Madrid
+94,1,0,2024-04-29,Barcelona,Valencia,W,Barcelona,0,0,Valencia,Barcelona,L,Valencia
+95,0,0,2024-05-04,Barcelona,Girona,L,Barcelona,1,0,Girona,Barcelona,W,Girona
+96,1,1,2024-05-13,Barcelona,Real Sociedad,W,Barcelona,0,0,RealSociedad,Barcelona,L,Real Sociedad
+97,1,1,2024-05-16,Barcelona,Almería,W,Barcelona,0,0,Almeria,Barcelona,L,Almería
+98,1,0,2024-05-19,Barcelona,Rayo Vallecano,W,Barcelona,0,0,RayoVallecano,Barcelona,L,Rayo Vallecano
+99,1,0,2024-05-26,Barcelona,Sevilla,W,Barcelona,0,0,Sevilla,Barcelona,L,Sevilla
+100,0,0,2024-01-03,Cadiz,Granada,L,Cádiz,1,0,Granada,Cádiz,W,Granada
+101,0,0,2024-01-14,Cadiz,Valencia,L,Cádiz,1,0,Valencia,Cádiz,W,Valencia
+102,0,0,2024-01-19,Cadiz,Alavés,L,Cádiz,1,1,Alaves,Cádiz,W,Alavés
+103,0,0,2024-01-28,Cadiz,Athletic Club,D,Cádiz,0,0,AthleticClub,Cádiz,D,Athletic Club
+104,0,0,2024-02-04,Cadiz,Villarreal,D,Cádiz,0,1,Villarreal,Cádiz,D,Villarreal
+105,0,0,2024-02-09,Cadiz,Real Betis,L,Cádiz,1,0,RealBetis,Cádiz,W,Real Betis
+106,0,0,2024-02-17,Cadiz,Osasuna,L,Cádiz,1,0,Osasuna,Cádiz,W,Osasuna
+107,0,1,2024-02-25,Cadiz,Celta Vigo,D,Cádiz,0,0,CeltaVigo,Cádiz,D,Celta Vigo
+108,0,0,2024-03-02,Cadiz,Rayo Vallecano,D,Cádiz,0,0,RayoVallecano,Cádiz,D,Rayo Vallecano
+109,1,0,2024-03-09,Cadiz,Atlético Madrid,W,Cádiz,0,1,AtleticoMadrid,Cádiz,L,Atlético Madrid
+110,0,0,2024-03-15,Cadiz,Real Sociedad,L,Cádiz,1,1,RealSociedad,Cádiz,W,Real Sociedad
+111,1,0,2024-03-29,Cadiz,Granada,W,Cádiz,0,0,Granada,Cádiz,L,Granada
+112,0,1,2024-04-13,Cadiz,Barcelona,L,Cádiz,1,1,Barcelona,Cádiz,W,Barcelona
+113,0,0,2024-04-20,Cadiz,Girona,L,Cádiz,1,0,Girona,Cádiz,W,Girona
+114,0,1,2024-04-28,Cadiz,Mallorca,D,Cádiz,0,0,Mallorca,Cádiz,D,Mallorca
+115,0,0,2024-05-04,Cadiz,Real Madrid,L,Cádiz,1,0,RealMadrid,Cádiz,W,Real Madrid
+116,1,0,2024-05-12,Cadiz,Getafe,W,Cádiz,0,0,Getafe,Cádiz,L,Getafe
+117,1,0,2024-05-15,Cadiz,Sevilla,W,Cádiz,0,0,Sevilla,Cádiz,L,Sevilla
+118,0,1,2024-05-19,Cadiz,Las Palmas,D,Cádiz,0,0,LasPalmas,Cádiz,D,Las Palmas
+119,0,1,2024-05-25,Cadiz,Almería,L,Cádiz,1,0,Almeria,Cádiz,W,Almería
+120,1,0,2024-01-03,CeltaVigo,Real Betis,W,Celta Vigo,0,0,RealBetis,Celta Vigo,L,Real Betis
+121,0,0,2024-01-13,CeltaVigo,Mallorca,D,Celta Vigo,0,0,Mallorca,Celta Vigo,D,Mallorca
+122,0,0,2024-01-20,CeltaVigo,Real Sociedad,L,Celta Vigo,1,0,RealSociedad,Celta Vigo,W,Real Sociedad
+123,0,0,2024-01-28,CeltaVigo,Girona,L,Celta Vigo,1,0,Girona,Celta Vigo,W,Girona
+124,1,0,2024-02-04,CeltaVigo,Osasuna,W,Celta Vigo,0,0,Osasuna,Celta Vigo,L,Osasuna
+125,0,0,2024-02-11,CeltaVigo,Getafe,L,Celta Vigo,1,0,Getafe,Celta Vigo,W,Getafe
+126,0,0,2024-02-17,CeltaVigo,Barcelona,L,Celta Vigo,1,0,Barcelona,Celta Vigo,W,Barcelona
+127,0,0,2024-02-25,CeltaVigo,Cádiz,D,Celta Vigo,0,1,Cadiz,Celta Vigo,D,Cádiz
+128,1,1,2024-03-01,CeltaVigo,Almería,W,Celta Vigo,0,0,Almeria,Celta Vigo,L,Almería
+129,0,0,2024-03-10,CeltaVigo,Real Madrid,L,Celta Vigo,1,0,RealMadrid,Celta Vigo,W,Real Madrid
+130,1,0,2024-03-17,CeltaVigo,Sevilla,W,Celta Vigo,0,1,Sevilla,Celta Vigo,L,Sevilla
+131,0,0,2024-03-31,CeltaVigo,Rayo Vallecano,D,Celta Vigo,0,0,RayoVallecano,Celta Vigo,D,Rayo Vallecano
+132,0,0,2024-04-12,CeltaVigo,Real Betis,L,Celta Vigo,1,0,RealBetis,Celta Vigo,W,Real Betis
+133,1,1,2024-04-20,CeltaVigo,Las Palmas,W,Celta Vigo,0,0,LasPalmas,Celta Vigo,L,Las Palmas
+134,0,0,2024-04-27,CeltaVigo,Alavés,L,Celta Vigo,1,0,Alaves,Celta Vigo,W,Alavés
+135,1,1,2024-05-05,CeltaVigo,Villarreal,W,Celta Vigo,0,0,Villarreal,Celta Vigo,L,Villarreal
+136,0,0,2024-05-12,CeltaVigo,Atlético Madrid,L,Celta Vigo,1,0,AtleticoMadrid,Celta Vigo,W,Atlético Madrid
+137,1,0,2024-05-15,CeltaVigo,Athletic Club,W,Celta Vigo,0,0,AthleticClub,Celta Vigo,L,Athletic Club
+138,1,0,2024-05-19,CeltaVigo,Granada,W,Celta Vigo,0,0,Granada,Celta Vigo,L,Granada
+139,0,1,2024-05-26,CeltaVigo,Valencia,D,Celta Vigo,0,0,Valencia,Celta Vigo,D,Valencia
+140,0,0,2024-01-02,Getafe,Rayo Vallecano,L,Getafe,1,0,RayoVallecano,Getafe,W,Rayo Vallecano
+141,0,0,2024-01-21,Getafe,Osasuna,L,Getafe,1,1,Osasuna,Getafe,W,Osasuna
+142,1,0,2024-01-29,Getafe,Granada,W,Getafe,0,0,Granada,Getafe,L,Granada
+143,0,0,2024-02-01,Getafe,Real Madrid,L,Getafe,1,0,RealMadrid,Getafe,W,Real Madrid
+144,0,0,2024-02-04,Getafe,Real Betis,D,Getafe,0,0,RealBetis,Getafe,D,Real Betis
+145,1,0,2024-02-11,Getafe,Celta Vigo,W,Getafe,0,0,CeltaVigo,Getafe,L,Celta Vigo
+146,0,0,2024-02-16,Getafe,Villarreal,D,Getafe,0,1,Villarreal,Getafe,D,Villarreal
+147,0,0,2024-02-24,Getafe,Barcelona,L,Getafe,1,1,Barcelona,Getafe,W,Barcelona
+148,0,0,2024-03-02,Getafe,Las Palmas,D,Getafe,0,0,LasPalmas,Getafe,D,Las Palmas
+149,0,0,2024-03-09,Getafe,Valencia,L,Getafe,1,0,Valencia,Getafe,W,Valencia
+150,1,1,2024-03-16,Getafe,Girona,W,Getafe,0,0,Girona,Getafe,L,Girona
+151,0,0,2024-03-30,Getafe,Sevilla,L,Getafe,1,0,Sevilla,Getafe,W,Sevilla
+152,0,0,2024-04-13,Getafe,Rayo Vallecano,D,Getafe,0,0,RayoVallecano,Getafe,D,Rayo Vallecano
+153,0,0,2024-04-21,Getafe,Real Sociedad,D,Getafe,0,0,RealSociedad,Getafe,D,Real Sociedad
+154,1,0,2024-04-27,Getafe,Almería,W,Getafe,0,0,Almeria,Getafe,L,Almería
+155,0,0,2024-05-03,Getafe,Athletic Club,L,Getafe,1,0,AthleticClub,Getafe,W,Athletic Club
+156,0,0,2024-05-12,Getafe,Cádiz,L,Getafe,1,0,Cadiz,Getafe,W,Cádiz
+157,0,0,2024-05-15,Getafe,Atlético Madrid,L,Getafe,1,0,AtleticoMadrid,Getafe,W,Atlético Madrid
+158,0,0,2024-05-18,Getafe,Alavés,L,Getafe,1,1,Alaves,Getafe,W,Alavés
+159,0,1,2024-05-26,Getafe,Mallorca,L,Getafe,1,0,Mallorca,Getafe,W,Mallorca
+160,1,0,2024-01-03,Girona,Atlético Madrid,W,Girona,0,0,AtleticoMadrid,Girona,L,Atlético Madrid
+161,0,0,2024-01-14,Girona,Almería,D,Girona,0,0,Almeria,Girona,D,Almería
+162,1,0,2024-01-21,Girona,Sevilla,W,Girona,0,0,Sevilla,Girona,L,Sevilla
+163,1,0,2024-01-28,Girona,Celta Vigo,W,Girona,0,0,CeltaVigo,Girona,L,Celta Vigo
+164,0,1,2024-02-03,Girona,Real Sociedad,D,Girona,0,0,RealSociedad,Girona,D,Real Sociedad
+165,0,0,2024-02-10,Girona,Real Madrid,L,Girona,1,1,RealMadrid,Girona,W,Real Madrid
+166,0,0,2024-02-19,Girona,Athletic Club,L,Girona,1,1,AthleticClub,Girona,W,Athletic Club
+167,1,0,2024-02-26,Girona,Rayo Vallecano,W,Girona,0,0,RayoVallecano,Girona,L,Rayo Vallecano
+168,0,0,2024-03-03,Girona,Mallorca,L,Girona,1,0,Mallorca,Girona,W,Mallorca
+169,1,1,2024-03-09,Girona,Osasuna,W,Girona,0,0,Osasuna,Girona,L,Osasuna
+170,0,0,2024-03-16,Girona,Getafe,L,Girona,1,1,Getafe,Girona,W,Getafe
+171,1,0,2024-03-31,Girona,Real Betis,W,Girona,0,0,RealBetis,Girona,L,Real Betis
+172,0,0,2024-04-13,Girona,Atlético Madrid,L,Girona,1,0,AtleticoMadrid,Girona,W,Atlético Madrid
+173,1,0,2024-04-20,Girona,Cádiz,W,Girona,0,0,Cadiz,Girona,L,Cádiz
+174,1,0,2024-04-27,Girona,Las Palmas,W,Girona,0,0,LasPalmas,Girona,L,Las Palmas
+175,1,0,2024-05-04,Girona,Barcelona,W,Girona,0,0,Barcelona,Girona,L,Barcelona
+176,0,0,2024-05-10,Girona,Alavés,D,Girona,0,1,Alaves,Girona,D,Alavés
+177,0,0,2024-05-14,Girona,Villarreal,L,Girona,1,0,Villarreal,Girona,W,Villarreal
+178,1,0,2024-05-19,Girona,Valencia,W,Girona,0,1,Valencia,Girona,L,Valencia
+179,1,1,2024-05-24,Girona,Granada,W,Girona,0,0,Granada,Girona,L,Granada
+180,1,0,2024-01-03,Granada,Cádiz,W,Granada,0,0,Cadiz,Granada,L,Cádiz
+181,0,0,2024-01-13,Granada,Real Betis,L,Granada,1,0,RealBetis,Granada,W,Real Betis
+182,0,0,2024-01-22,Granada,Atlético Madrid,L,Granada,1,0,AtleticoMadrid,Granada,W,Atlético Madrid
+183,0,0,2024-01-29,Granada,Getafe,L,Granada,1,0,Getafe,Granada,W,Getafe
+184,0,1,2024-02-03,Granada,Las Palmas,D,Granada,0,0,LasPalmas,Granada,D,Las Palmas
+185,0,0,2024-02-11,Granada,Barcelona,D,Granada,0,1,Barcelona,Granada,D,Barcelona
+186,0,0,2024-02-18,Granada,Almería,D,Granada,0,0,Almeria,Granada,D,Almería
+187,0,0,2024-03-03,Granada,Villarreal,L,Granada,1,1,Villarreal,Granada,W,Villarreal
+188,0,0,2024-03-09,Granada,Real Sociedad,L,Granada,1,0,RealSociedad,Granada,W,Real Sociedad
+189,0,0,2024-03-16,Granada,Mallorca,L,Granada,1,1,Mallorca,Granada,W,Mallorca
+190,0,0,2024-03-29,Granada,Cádiz,L,Granada,1,0,Cadiz,Granada,W,Cádiz
+191,0,0,2024-04-04,Granada,Valencia,L,Granada,1,0,Valencia,Granada,W,Valencia
+192,1,1,2024-04-14,Granada,Alavés,W,Granada,0,0,Alaves,Granada,L,Alavés
+193,0,0,2024-04-19,Granada,Athletic Club,D,Granada,0,0,AthleticClub,Granada,D,Athletic Club
+194,1,0,2024-04-28,Granada,Osasuna,W,Granada,0,0,Osasuna,Granada,L,Osasuna
+195,0,0,2024-05-05,Granada,Sevilla,L,Granada,1,1,Sevilla,Granada,W,Sevilla
+196,0,0,2024-05-11,Granada,Real Madrid,L,Granada,1,0,RealMadrid,Granada,W,Real Madrid
+197,0,0,2024-05-15,Granada,Rayo Vallecano,L,Granada,1,1,RayoVallecano,Granada,W,Rayo Vallecano
+198,0,0,2024-05-19,Granada,Celta Vigo,L,Granada,1,0,CeltaVigo,Granada,W,Celta Vigo
+199,0,0,2024-05-24,Granada,Girona,L,Granada,1,1,Girona,Granada,W,Girona
+200,0,0,2024-01-04,LasPalmas,Barcelona,L,Las Palmas,1,1,Barcelona,Las Palmas,W,Barcelona
+201,1,0,2024-01-13,LasPalmas,Villarreal,W,Las Palmas,0,0,Villarreal,Las Palmas,L,Villarreal
+202,1,0,2024-01-20,LasPalmas,Rayo Vallecano,W,Las Palmas,0,1,RayoVallecano,Las Palmas,L,Rayo Vallecano
+203,0,0,2024-01-27,LasPalmas,Real Madrid,L,Las Palmas,1,0,RealMadrid,Las Palmas,W,Real Madrid
+204,0,0,2024-02-03,LasPalmas,Granada,D,Las Palmas,0,1,Granada,Las Palmas,D,Granada
+205,1,1,2024-02-10,LasPalmas,Valencia,W,Las Palmas,0,0,Valencia,Las Palmas,L,Valencia
+206,0,0,2024-02-17,LasPalmas,Atlético Madrid,L,Las Palmas,1,0,AtleticoMadrid,Las Palmas,W,Atlético Madrid
+207,0,0,2024-02-25,LasPalmas,Osasuna,D,Las Palmas,0,0,Osasuna,Las Palmas,D,Osasuna
+208,0,0,2024-03-02,LasPalmas,Getafe,D,Las Palmas,0,0,Getafe,Las Palmas,D,Getafe
+209,0,0,2024-03-10,LasPalmas,Athletic Club,L,Las Palmas,1,0,AthleticClub,Las Palmas,W,Athletic Club
+210,0,1,2024-03-17,LasPalmas,Almería,L,Las Palmas,1,0,Almeria,Las Palmas,W,Almería
+211,0,0,2024-03-30,LasPalmas,Barcelona,L,Las Palmas,1,1,Barcelona,Las Palmas,W,Barcelona
+212,0,0,2024-04-14,LasPalmas,Sevilla,L,Las Palmas,1,0,Sevilla,Las Palmas,W,Sevilla
+213,0,0,2024-04-20,LasPalmas,Celta Vigo,L,Las Palmas,1,1,CeltaVigo,Las Palmas,W,Celta Vigo
+214,0,0,2024-04-27,LasPalmas,Girona,L,Las Palmas,1,0,Girona,Las Palmas,W,Girona
+215,0,0,2024-05-04,LasPalmas,Real Sociedad,L,Las Palmas,1,1,RealSociedad,Las Palmas,W,Real Sociedad
+216,0,0,2024-05-11,LasPalmas,Mallorca,L,Las Palmas,1,0,Mallorca,Las Palmas,W,Mallorca
+217,0,0,2024-05-16,LasPalmas,Real Betis,D,Las Palmas,0,0,RealBetis,Las Palmas,D,Real Betis
+218,0,0,2024-05-19,LasPalmas,Cádiz,D,Las Palmas,0,1,Cadiz,Las Palmas,D,Cádiz
+219,0,1,2024-05-26,LasPalmas,Alavés,D,Las Palmas,0,0,Alaves,Las Palmas,D,Alavés
+220,0,0,2024-01-03,Mallorca,Real Madrid,L,Mallorca,1,1,RealMadrid,Mallorca,W,Real Madrid
+221,0,0,2024-01-13,Mallorca,Celta Vigo,D,Mallorca,0,0,CeltaVigo,Mallorca,D,Celta Vigo
+222,0,0,2024-01-20,Mallorca,Villarreal,D,Mallorca,0,0,Villarreal,Mallorca,D,Villarreal
+223,0,0,2024-01-27,Mallorca,Real Betis,L,Mallorca,1,0,RealBetis,Mallorca,W,Real Betis
+224,0,0,2024-02-02,Mallorca,Athletic Club,L,Mallorca,1,1,AthleticClub,Mallorca,W,Athletic Club
+225,1,1,2024-02-11,Mallorca,Rayo Vallecano,W,Mallorca,0,0,RayoVallecano,Mallorca,L,Rayo Vallecano
+226,0,0,2024-02-18,Mallorca,Real Sociedad,L,Mallorca,1,0,RealSociedad,Mallorca,W,Real Sociedad
+227,0,0,2024-02-24,Mallorca,Alavés,D,Mallorca,0,0,Alaves,Mallorca,D,Alavés
+228,1,0,2024-03-03,Mallorca,Girona,W,Mallorca,0,0,Girona,Mallorca,L,Girona
+229,0,0,2024-03-08,Mallorca,Barcelona,L,Mallorca,1,1,Barcelona,Mallorca,W,Barcelona
+230,1,1,2024-03-16,Mallorca,Granada,W,Mallorca,0,0,Granada,Mallorca,L,Granada
+231,0,0,2024-03-30,Mallorca,Valencia,D,Mallorca,0,1,Valencia,Mallorca,D,Valencia
+232,0,0,2024-04-13,Mallorca,Real Madrid,L,Mallorca,1,0,RealMadrid,Mallorca,W,Real Madrid
+233,0,0,2024-04-22,Mallorca,Sevilla,L,Mallorca,1,0,Sevilla,Mallorca,W,Sevilla
+234,0,0,2024-04-28,Mallorca,Cádiz,D,Mallorca,0,1,Cadiz,Mallorca,D,Cádiz
+235,0,0,2024-05-04,Mallorca,Atlético Madrid,L,Mallorca,1,0,AtleticoMadrid,Mallorca,W,Atlético Madrid
+236,1,0,2024-05-11,Mallorca,Las Palmas,W,Mallorca,0,0,LasPalmas,Mallorca,L,Las Palmas
+237,0,0,2024-05-14,Mallorca,Osasuna,D,Mallorca,0,0,Osasuna,Mallorca,D,Osasuna
+238,0,1,2024-05-19,Mallorca,Almería,D,Mallorca,0,0,Almeria,Mallorca,D,Almería
+239,1,0,2024-05-26,Mallorca,Getafe,W,Mallorca,0,1,Getafe,Mallorca,L,Getafe
+240,1,1,2024-01-04,Osasuna,Almería,W,Osasuna,0,0,Almeria,Osasuna,L,Almería
+241,1,1,2024-01-21,Osasuna,Getafe,W,Osasuna,0,0,Getafe,Osasuna,L,Getafe
+242,0,0,2024-01-28,Osasuna,Sevilla,D,Osasuna,0,0,Sevilla,Osasuna,D,Sevilla
+243,0,0,2024-01-31,Osasuna,Barcelona,L,Osasuna,1,0,Barcelona,Osasuna,W,Barcelona
+244,0,0,2024-02-04,Osasuna,Celta Vigo,L,Osasuna,1,0,CeltaVigo,Osasuna,W,Celta Vigo
+245,1,0,2024-02-10,Osasuna,Real Sociedad,W,Osasuna,0,1,RealSociedad,Osasuna,L,Real Sociedad
+246,1,0,2024-02-17,Osasuna,Cádiz,W,Osasuna,0,0,Cadiz,Osasuna,L,Cádiz
+247,0,0,2024-02-25,Osasuna,Las Palmas,D,Osasuna,0,0,LasPalmas,Osasuna,D,Las Palmas
+248,1,1,2024-03-04,Osasuna,Alavés,W,Osasuna,0,0,Alaves,Osasuna,L,Alavés
+249,0,0,2024-03-09,Osasuna,Girona,L,Osasuna,1,1,Girona,Osasuna,W,Girona
+250,0,1,2024-03-16,Osasuna,Real Madrid,L,Osasuna,1,1,RealMadrid,Osasuna,W,Real Madrid
+251,1,0,2024-03-30,Osasuna,Almería,W,Osasuna,0,1,Almeria,Osasuna,L,Almería
+252,0,0,2024-04-15,Osasuna,Valencia,L,Osasuna,1,0,Valencia,Osasuna,W,Valencia
+253,0,0,2024-04-20,Osasuna,Rayo Vallecano,L,Osasuna,1,1,RayoVallecano,Osasuna,W,Rayo Vallecano
+254,0,0,2024-04-28,Osasuna,Granada,L,Osasuna,1,0,Granada,Osasuna,W,Granada
+255,0,0,2024-05-05,Osasuna,Real Betis,L,Osasuna,1,0,RealBetis,Osasuna,W,Real Betis
+256,0,0,2024-05-11,Osasuna,Athletic Club,D,Osasuna,0,0,AthleticClub,Osasuna,D,Athletic Club
+257,0,0,2024-05-14,Osasuna,Mallorca,D,Osasuna,0,0,Mallorca,Osasuna,D,Mallorca
+258,1,0,2024-05-19,Osasuna,Atlético Madrid,W,Osasuna,0,1,AtleticoMadrid,Osasuna,L,Atlético Madrid
+259,0,0,2024-05-25,Osasuna,Villarreal,D,Osasuna,0,0,Villarreal,Osasuna,D,Villarreal
+260,1,0,2024-01-02,RayoVallecano,Getafe,W,Rayo Vallecano,0,0,Getafe,Rayo Vallecano,L,Getafe
+261,0,1,2024-01-20,RayoVallecano,Las Palmas,L,Rayo Vallecano,1,0,LasPalmas,Rayo Vallecano,W,Las Palmas
+262,0,0,2024-01-27,RayoVallecano,Real Sociedad,D,Rayo Vallecano,0,0,RealSociedad,Rayo Vallecano,D,Real Sociedad
+263,0,0,2024-01-31,RayoVallecano,Atlético Madrid,L,Rayo Vallecano,1,1,AtleticoMadrid,Rayo Vallecano,W,Atlético Madrid
+264,0,0,2024-02-05,RayoVallecano,Sevilla,L,Rayo Vallecano,1,0,Sevilla,Rayo Vallecano,W,Sevilla
+265,0,0,2024-02-11,RayoVallecano,Mallorca,L,Rayo Vallecano,1,1,Mallorca,Rayo Vallecano,W,Mallorca
+266,0,0,2024-02-18,RayoVallecano,Real Madrid,D,Rayo Vallecano,0,0,RealMadrid,Rayo Vallecano,D,Real Madrid
+267,0,0,2024-02-26,RayoVallecano,Girona,L,Rayo Vallecano,1,0,Girona,Rayo Vallecano,W,Girona
+268,0,0,2024-03-02,RayoVallecano,Cádiz,D,Rayo Vallecano,0,0,Cadiz,Rayo Vallecano,D,Cádiz
+269,0,0,2024-03-10,RayoVallecano,Alavés,L,Rayo Vallecano,1,0,Alaves,Rayo Vallecano,W,Alavés
+270,1,0,2024-03-17,RayoVallecano,Real Betis,W,Rayo Vallecano,0,0,RealBetis,Rayo Vallecano,L,Real Betis
+271,0,0,2024-03-31,RayoVallecano,Celta Vigo,D,Rayo Vallecano,0,0,CeltaVigo,Rayo Vallecano,D,Celta Vigo
+272,0,0,2024-04-13,RayoVallecano,Getafe,D,Rayo Vallecano,0,0,Getafe,Rayo Vallecano,D,Getafe
+273,1,1,2024-04-20,RayoVallecano,Osasuna,W,Rayo Vallecano,0,0,Osasuna,Rayo Vallecano,L,Osasuna
+274,0,0,2024-04-28,RayoVallecano,Villarreal,L,Rayo Vallecano,1,0,Villarreal,Rayo Vallecano,W,Villarreal
+275,0,1,2024-05-05,RayoVallecano,Almería,L,Rayo Vallecano,1,0,Almeria,Rayo Vallecano,W,Almería
+276,0,0,2024-05-12,RayoVallecano,Valencia,D,Rayo Vallecano,0,0,Valencia,Rayo Vallecano,D,Valencia
+277,1,1,2024-05-15,RayoVallecano,Granada,W,Rayo Vallecano,0,0,Granada,Rayo Vallecano,L,Granada
+278,0,0,2024-05-19,RayoVallecano,Barcelona,L,Rayo Vallecano,1,0,Barcelona,Rayo Vallecano,W,Barcelona
+279,0,0,2024-05-25,RayoVallecano,Athletic Club,L,Rayo Vallecano,1,0,AthleticClub,Rayo Vallecano,W,Athletic Club
+280,0,0,2024-01-03,RealBetis,Celta Vigo,L,Real Betis,1,0,CeltaVigo,Real Betis,W,Celta Vigo
+281,1,0,2024-01-13,RealBetis,Granada,W,Real Betis,0,0,Granada,Real Betis,L,Granada
+282,0,0,2024-01-21,RealBetis,Barcelona,L,Real Betis,1,0,Barcelona,Real Betis,W,Barcelona
+283,1,0,2024-01-27,RealBetis,Mallorca,W,Real Betis,0,0,Mallorca,Real Betis,L,Mallorca
+284,0,0,2024-02-04,RealBetis,Getafe,D,Real Betis,0,0,Getafe,Real Betis,D,Getafe
+285,1,0,2024-02-09,RealBetis,Cádiz,W,Real Betis,0,0,Cadiz,Real Betis,L,Cádiz
+286,0,1,2024-02-18,RealBetis,Alavés,D,Real Betis,0,0,Alaves,Real Betis,D,Alavés
+287,1,0,2024-02-25,RealBetis,Athletic Club,W,Real Betis,0,0,AthleticClub,Real Betis,L,Athletic Club
+288,0,0,2024-03-03,RealBetis,Atlético Madrid,L,Real Betis,1,0,AtleticoMadrid,Real Betis,W,Atlético Madrid
+289,0,1,2024-03-10,RealBetis,Villarreal,L,Real Betis,1,1,Villarreal,Real Betis,W,Villarreal
+290,0,0,2024-03-17,RealBetis,Rayo Vallecano,L,Real Betis,1,0,RayoVallecano,Real Betis,W,Rayo Vallecano
+291,0,0,2024-03-31,RealBetis,Girona,L,Real Betis,1,0,Girona,Real Betis,W,Girona
+292,1,0,2024-04-12,RealBetis,Celta Vigo,W,Real Betis,0,0,CeltaVigo,Real Betis,L,Celta Vigo
+293,1,0,2024-04-20,RealBetis,Valencia,W,Real Betis,0,1,Valencia,Real Betis,L,Valencia
+294,0,1,2024-04-28,RealBetis,Sevilla,D,Real Betis,0,0,Sevilla,Real Betis,D,Sevilla
+295,1,0,2024-05-05,RealBetis,Osasuna,W,Real Betis,0,0,Osasuna,Real Betis,L,Osasuna
+296,1,1,2024-05-12,RealBetis,Almería,W,Real Betis,0,0,Almeria,Real Betis,L,Almería
+297,0,0,2024-05-16,RealBetis,Las Palmas,D,Real Betis,0,0,LasPalmas,Real Betis,D,Las Palmas
+298,0,1,2024-05-19,RealBetis,Real Sociedad,L,Real Betis,1,0,RealSociedad,Real Betis,W,Real Sociedad
+299,0,0,2024-05-25,RealBetis,Real Madrid,D,Real Betis,0,0,RealMadrid,Real Betis,D,Real Madrid
+300,1,1,2024-01-03,RealMadrid,Mallorca,W,Real Madrid,0,0,Mallorca,Real Madrid,L,Mallorca
+301,1,1,2024-01-21,RealMadrid,Almería,W,Real Madrid,0,0,Almeria,Real Madrid,L,Almería
+302,1,0,2024-01-27,RealMadrid,Las Palmas,W,Real Madrid,0,0,LasPalmas,Real Madrid,L,Las Palmas
+303,1,0,2024-02-01,RealMadrid,Getafe,W,Real Madrid,0,0,Getafe,Real Madrid,L,Getafe
+304,0,1,2024-02-04,RealMadrid,Atlético Madrid,D,Real Madrid,0,0,AtleticoMadrid,Real Madrid,D,Atlético Madrid
+305,1,1,2024-02-10,RealMadrid,Girona,W,Real Madrid,0,0,Girona,Real Madrid,L,Girona
+306,0,0,2024-02-18,RealMadrid,Rayo Vallecano,D,Real Madrid,0,0,RayoVallecano,Real Madrid,D,Rayo Vallecano
+307,1,0,2024-02-25,RealMadrid,Sevilla,W,Real Madrid,0,0,Sevilla,Real Madrid,L,Sevilla
+308,0,0,2024-03-02,RealMadrid,Valencia,D,Real Madrid,0,0,Valencia,Real Madrid,D,Valencia
+309,1,0,2024-03-10,RealMadrid,Celta Vigo,W,Real Madrid,0,0,CeltaVigo,Real Madrid,L,Celta Vigo
+310,1,1,2024-03-16,RealMadrid,Osasuna,W,Real Madrid,0,1,Osasuna,Real Madrid,L,Osasuna
+311,1,1,2024-03-31,RealMadrid,Athletic Club,W,Real Madrid,0,0,AthleticClub,Real Madrid,L,Athletic Club
+312,1,0,2024-04-13,RealMadrid,Mallorca,W,Real Madrid,0,0,Mallorca,Real Madrid,L,Mallorca
+313,1,0,2024-04-21,RealMadrid,Barcelona,W,Real Madrid,0,0,Barcelona,Real Madrid,L,Barcelona
+314,1,0,2024-04-26,RealMadrid,Real Sociedad,W,Real Madrid,0,0,RealSociedad,Real Madrid,L,Real Sociedad
+315,1,0,2024-05-04,RealMadrid,Cádiz,W,Real Madrid,0,0,Cadiz,Real Madrid,L,Cádiz
+316,1,0,2024-05-11,RealMadrid,Granada,W,Real Madrid,0,0,Granada,Real Madrid,L,Granada
+317,1,1,2024-05-14,RealMadrid,Alavés,W,Real Madrid,0,0,Alaves,Real Madrid,L,Alavés
+318,0,0,2024-05-19,RealMadrid,Villarreal,D,Real Madrid,0,0,Villarreal,Real Madrid,D,Villarreal
+319,0,0,2024-05-25,RealMadrid,Real Betis,D,Real Madrid,0,0,RealBetis,Real Madrid,D,Real Betis
+320,0,1,2024-01-02,RealSociedad,Alavés,D,Real Sociedad,0,0,Alaves,Real Sociedad,D,Alavés
+321,0,0,2024-01-13,RealSociedad,Athletic Club,L,Real Sociedad,1,0,AthleticClub,Real Sociedad,W,Athletic Club
+322,1,0,2024-01-20,RealSociedad,Celta Vigo,W,Real Sociedad,0,0,CeltaVigo,Real Sociedad,L,Celta Vigo
+323,0,0,2024-01-27,RealSociedad,Rayo Vallecano,D,Real Sociedad,0,0,RayoVallecano,Real Sociedad,D,Rayo Vallecano
+324,0,0,2024-02-03,RealSociedad,Girona,D,Real Sociedad,0,1,Girona,Real Sociedad,D,Girona
+325,0,1,2024-02-10,RealSociedad,Osasuna,L,Real Sociedad,1,0,Osasuna,Real Sociedad,W,Osasuna
+326,1,0,2024-02-18,RealSociedad,Mallorca,W,Real Sociedad,0,0,Mallorca,Real Sociedad,L,Mallorca
+327,0,1,2024-02-23,RealSociedad,Villarreal,L,Real Sociedad,1,0,Villarreal,Real Sociedad,W,Villarreal
+328,0,0,2024-03-02,RealSociedad,Sevilla,L,Real Sociedad,1,1,Sevilla,Real Sociedad,W,Sevilla
+329,1,0,2024-03-09,RealSociedad,Granada,W,Real Sociedad,0,0,Granada,Real Sociedad,L,Granada
+330,1,1,2024-03-15,RealSociedad,Cádiz,W,Real Sociedad,0,0,Cadiz,Real Sociedad,L,Cádiz
+331,1,0,2024-03-31,RealSociedad,Alavés,W,Real Sociedad,0,0,Alaves,Real Sociedad,L,Alavés
+332,0,1,2024-04-14,RealSociedad,Almería,D,Real Sociedad,0,0,Almeria,Real Sociedad,D,Almería
+333,0,0,2024-04-21,RealSociedad,Getafe,D,Real Sociedad,0,0,Getafe,Real Sociedad,D,Getafe
+334,0,0,2024-04-26,RealSociedad,Real Madrid,L,Real Sociedad,1,0,RealMadrid,Real Sociedad,W,Real Madrid
+335,1,1,2024-05-04,RealSociedad,Las Palmas,W,Real Sociedad,0,0,LasPalmas,Real Sociedad,L,Las Palmas
+336,0,0,2024-05-13,RealSociedad,Barcelona,L,Real Sociedad,1,1,Barcelona,Real Sociedad,W,Barcelona
+337,1,0,2024-05-16,RealSociedad,Valencia,W,Real Sociedad,0,0,Valencia,Real Sociedad,L,Valencia
+338,1,0,2024-05-19,RealSociedad,Real Betis,W,Real Sociedad,0,1,RealBetis,Real Sociedad,L,Real Betis
+339,0,0,2024-05-25,RealSociedad,Atlético Madrid,L,Real Sociedad,1,0,AtleticoMadrid,Real Sociedad,W,Atlético Madrid
+340,0,0,2024-01-04,Sevilla,Athletic Club,L,Sevilla,1,0,AthleticClub,Sevilla,W,Athletic Club
+341,0,1,2024-01-12,Sevilla,Alavés,L,Sevilla,1,0,Alaves,Sevilla,W,Alavés
+342,0,0,2024-01-21,Sevilla,Girona,L,Sevilla,1,0,Girona,Sevilla,W,Girona
+343,0,0,2024-01-28,Sevilla,Osasuna,D,Sevilla,0,0,Osasuna,Sevilla,D,Osasuna
+344,1,0,2024-02-05,Sevilla,Rayo Vallecano,W,Sevilla,0,0,RayoVallecano,Sevilla,L,Rayo Vallecano
+345,1,0,2024-02-11,Sevilla,Atlético Madrid,W,Sevilla,0,0,AtleticoMadrid,Sevilla,L,Atlético Madrid
+346,0,0,2024-02-17,Sevilla,Valencia,D,Sevilla,0,0,Valencia,Sevilla,D,Valencia
+347,0,0,2024-02-25,Sevilla,Real Madrid,L,Sevilla,1,0,RealMadrid,Sevilla,W,Real Madrid
+348,1,1,2024-03-02,Sevilla,Real Sociedad,W,Sevilla,0,0,RealSociedad,Sevilla,L,Real Sociedad
+349,0,0,2024-03-11,Sevilla,Almería,D,Sevilla,0,0,Almeria,Sevilla,D,Almería
+350,0,1,2024-03-17,Sevilla,Celta Vigo,L,Sevilla,1,0,CeltaVigo,Sevilla,W,Celta Vigo
+351,1,0,2024-03-30,Sevilla,Getafe,W,Sevilla,0,0,Getafe,Sevilla,L,Getafe
+352,1,0,2024-04-14,Sevilla,Las Palmas,W,Sevilla,0,0,LasPalmas,Sevilla,L,Las Palmas
+353,1,0,2024-04-22,Sevilla,Mallorca,W,Sevilla,0,0,Mallorca,Sevilla,L,Mallorca
+354,0,0,2024-04-28,Sevilla,Real Betis,D,Sevilla,0,1,RealBetis,Sevilla,D,Real Betis
+355,1,1,2024-05-05,Sevilla,Granada,W,Sevilla,0,0,Granada,Sevilla,L,Granada
+356,0,0,2024-05-11,Sevilla,Villarreal,L,Sevilla,1,1,Villarreal,Sevilla,W,Villarreal
+357,0,0,2024-05-15,Sevilla,Cádiz,L,Sevilla,1,0,Cadiz,Sevilla,W,Cádiz
+358,0,0,2024-05-19,Sevilla,Athletic Club,L,Sevilla,1,1,AthleticClub,Sevilla,W,Athletic Club
+359,0,0,2024-05-26,Sevilla,Barcelona,L,Sevilla,1,0,Barcelona,Sevilla,W,Barcelona
+360,1,0,2024-01-02,Valencia,Villarreal,W,Valencia,0,0,Villarreal,Valencia,L,Villarreal
+361,1,0,2024-01-14,Valencia,Cádiz,W,Valencia,0,0,Cadiz,Valencia,L,Cádiz
+362,1,0,2024-01-20,Valencia,Athletic Club,W,Valencia,0,0,AthleticClub,Valencia,L,Athletic Club
+363,0,0,2024-01-28,Valencia,Atlético Madrid,L,Valencia,1,0,AtleticoMadrid,Valencia,W,Atlético Madrid
+364,1,1,2024-02-03,Valencia,Almería,W,Valencia,0,0,Almeria,Valencia,L,Almería
+365,0,0,2024-02-10,Valencia,Las Palmas,L,Valencia,1,1,LasPalmas,Valencia,W,Las Palmas
+366,0,0,2024-02-17,Valencia,Sevilla,D,Valencia,0,0,Sevilla,Valencia,D,Sevilla
+367,0,0,2024-03-02,Valencia,Real Madrid,D,Valencia,0,0,RealMadrid,Valencia,D,Real Madrid
+368,1,0,2024-03-09,Valencia,Getafe,W,Valencia,0,0,Getafe,Valencia,L,Getafe
+369,0,0,2024-03-17,Valencia,Villarreal,L,Valencia,1,1,Villarreal,Valencia,W,Villarreal
+370,0,1,2024-03-30,Valencia,Mallorca,D,Valencia,0,0,Mallorca,Valencia,D,Mallorca
+371,1,0,2024-04-04,Valencia,Granada,W,Valencia,0,0,Granada,Valencia,L,Granada
+372,1,0,2024-04-15,Valencia,Osasuna,W,Valencia,0,0,Osasuna,Valencia,L,Osasuna
+373,0,1,2024-04-20,Valencia,Real Betis,L,Valencia,1,0,RealBetis,Valencia,W,Real Betis
+374,0,0,2024-04-29,Valencia,Barcelona,L,Valencia,1,0,Barcelona,Valencia,W,Barcelona
+375,0,0,2024-05-05,Valencia,Alavés,L,Valencia,1,0,Alaves,Valencia,W,Alavés
+376,0,0,2024-05-12,Valencia,Rayo Vallecano,D,Valencia,0,0,RayoVallecano,Valencia,D,Rayo Vallecano
+377,0,0,2024-05-16,Valencia,Real Sociedad,L,Valencia,1,0,RealSociedad,Valencia,W,Real Sociedad
+378,0,1,2024-05-19,Valencia,Girona,L,Valencia,1,0,Girona,Valencia,W,Girona
+379,0,0,2024-05-26,Valencia,Celta Vigo,D,Valencia,0,1,CeltaVigo,Valencia,D,Celta Vigo
+380,0,0,2024-01-02,Villarreal,Valencia,L,Villarreal,1,0,Valencia,Villarreal,W,Valencia
+381,0,0,2024-01-13,Villarreal,Las Palmas,L,Villarreal,1,0,LasPalmas,Villarreal,W,Las Palmas
+382,0,0,2024-01-20,Villarreal,Mallorca,D,Villarreal,0,0,Mallorca,Villarreal,D,Mallorca
+383,1,0,2024-01-27,Villarreal,Barcelona,W,Villarreal,0,1,Barcelona,Villarreal,L,Barcelona
+384,0,1,2024-02-04,Villarreal,Cádiz,D,Villarreal,0,0,Cadiz,Villarreal,D,Cádiz
+385,0,1,2024-02-10,Villarreal,Alavés,D,Villarreal,0,0,Alaves,Villarreal,D,Alavés
+386,0,1,2024-02-16,Villarreal,Getafe,D,Villarreal,0,0,Getafe,Villarreal,D,Getafe
+387,1,0,2024-02-23,Villarreal,Real Sociedad,W,Villarreal,0,1,RealSociedad,Villarreal,L,Real Sociedad
+388,1,1,2024-03-03,Villarreal,Granada,W,Villarreal,0,0,Granada,Villarreal,L,Granada
+389,1,1,2024-03-10,Villarreal,Real Betis,W,Villarreal,0,1,RealBetis,Villarreal,L,Real Betis
+390,1,1,2024-03-17,Villarreal,Valencia,W,Villarreal,0,0,Valencia,Villarreal,L,Valencia
+391,0,0,2024-04-01,Villarreal,Atlético Madrid,L,Villarreal,1,0,AtleticoMadrid,Villarreal,W,Atlético Madrid
+392,0,0,2024-04-14,Villarreal,Athletic Club,D,Villarreal,0,0,AthleticClub,Villarreal,D,Athletic Club
+393,1,0,2024-04-21,Villarreal,Almería,W,Villarreal,0,0,Almeria,Villarreal,L,Almería
+394,1,0,2024-04-28,Villarreal,Rayo Vallecano,W,Villarreal,0,0,RayoVallecano,Villarreal,L,Rayo Vallecano
+395,0,0,2024-05-05,Villarreal,Celta Vigo,L,Villarreal,1,1,CeltaVigo,Villarreal,W,Celta Vigo
+396,1,1,2024-05-11,Villarreal,Sevilla,W,Villarreal,0,0,Sevilla,Villarreal,L,Sevilla
+397,1,0,2024-05-14,Villarreal,Girona,W,Villarreal,0,0,Girona,Villarreal,L,Girona
+398,0,0,2024-05-19,Villarreal,Real Madrid,D,Villarreal,0,0,RealMadrid,Villarreal,D,Real Madrid
+399,0,0,2024-05-25,Villarreal,Osasuna,D,Villarreal,0,0,Osasuna,Villarreal,D,Osasuna
